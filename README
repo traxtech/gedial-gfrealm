@@ -1,0 +1,7 @@
+gedial-gfrealm : GlassFish v3 JDBC realm with Jasypt support
+
+Source code: http://github.com/traxtech/gedial-gfrealm
+Licence: GPLv2 (see doc/licence.txt)
+Official commercial Support: Gedial ( http://www.gedial.com )
+
+Supported stack: Glassfishv3+PostgreSQL 
