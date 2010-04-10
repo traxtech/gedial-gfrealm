@@ -16,8 +16,7 @@
       <artifactId>rt</artifactId>
       <version>0.2</version>
       <scope>system</scope>
-      <!--<systemPath>${APPSERVRT_PATH}</systemPath>-->
-      <systemPath>/home/arnaud/tmp/glassfishv3/glassfish/lib/appserv-rt.jar</systemPath>
+      <systemPath>${APPSERVRT_PATH}</systemPath>
     </dependency>
     <dependency>
       <groupId>org.jasypt</groupId>
